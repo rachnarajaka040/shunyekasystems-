@@ -1,0 +1,35 @@
+/* .view-user-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  } */
+  
+  .h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    width: 400px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  
+  .th,
+  .td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  
+  
+  .loading-message {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
